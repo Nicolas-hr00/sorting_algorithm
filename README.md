@@ -2,7 +2,7 @@
 
 This repository contains an implementation of different kinds of sorting algorithms in C++
 
-##Table of Contents 
+## Table of Contents 
 
 1. [Description] (#description)
 2. [Program Output] (#output)
@@ -19,14 +19,18 @@ Insertion sort is a versatile and efficient sorting algorithm that can be used i
  
 The time complexity as follow : 
 - Worse case scenario: O(n^2)
+ 
 -Average case scenario: O(n^2)
+
 -Best-case scenearion: O(n)
 
 Quick Sort: Quick sort has been described as a "divide and conquer" algorithm. It will split problems into smaller subproblems. Then, sorting these subproblems the algoritm will use two arrays to hold elements less than an greater than or they could be equal. These are arrays are broken up into sub arrays to be sorted and eventually reconstructed together to create the final sorted array 
 
 The time complexity as follow: 
 -Worse case scenario: O(nlogn)
+
 -Average case scenario: O(n^2)
+
 -Best-case scenearion: O(nlogn)
 
 Selection Sort:
