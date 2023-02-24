@@ -45,8 +45,35 @@ The time complexity as follow:
 
 -Best-case scenearion:  O(n^2)
 
-Merge Sort:
+Merge Sort: Merge sort is a popular and efficient sorting algrithm that works by dividing an input array into smaller subarrays, sorting each subarray recursively, and then merging the sorted subarrays back together to create a fully sorted array. The biggest advantage of Merge sort is its efficient use of memory. 
 
-Binary Search 
+The time complexity as follow: 
 
-Shell Sort
+-Worse case scenario: O(nlog n)
+
+-Average case scenario:O(nlog n)
+
+-Best-case scenearion:  O(nlog n)
+
+Binary Search: 	The parameter is sorted to search and the target parameters is the value to find. It is going to se two pointers left and right to first and last indexes of the array. The function will computer the middle index of the current subarray and will compare to the target value. If the middle element is equal to the target the function will return its index if the middle element is less than the target the function updates the left pointer to the search.
+
+The time complexity as follow: 
+
+-Worse case scenario: O(log n)
+
+-Average case scenario:O(log n)
+
+-Best-case scenearion: O(1)
+
+Shell Sort: Shell sort is a variation of insertion sort that works by sorting elements that are far apart from each other. Then, it will gradually decrease the gap between elements to be sorted until the entire array is sorted. One of the biggest advantages from Shell sort is its time complexity which can be faster than other sorting algorithms even on its worse run time O(n^2).
+
+The time complexity as follow: 
+
+-Worse case scenario: O(n^2)
+
+-Average case scenario:O(n^2)
+
+-Best-case scenearion: O(n log n)
+
+## Program Output <a name="Output"></a>
+
