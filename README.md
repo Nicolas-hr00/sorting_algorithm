@@ -90,3 +90,6 @@ The time complexity as follow:
 <img src="Images/shellsort.png" width="550" height="280">
 
 <img src="Images/binarysearch.png" width="550" height="280">
+
+<img src="Images/quit.png" width="550" height="280">
+
