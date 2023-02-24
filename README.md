@@ -78,3 +78,15 @@ The time complexity as follow:
 ## Program Output <a name="Output"></a>
 
 <img src="Images/Screenshot 2023-02-24 122301.png" width="550" height="250">
+
+<img src="Images/insertion.png" width="550" height="250">
+
+<img src="Images/mergesort.png" width="550" height="250">
+
+<img src="Images/quicksort.png" width="550" height="250">
+
+<img src="Images/selectionsort.png" width="550" height="250">
+
+<img src="Images/shellsort.png" width="550" height="250">
+
+<img src="Images/binarysearch.png" width="550" height="250">
