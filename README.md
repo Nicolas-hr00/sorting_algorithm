@@ -35,7 +35,15 @@ The time complexity as follow:
 
 -Best-case scenearion: O(nlogn)
 
-Selection Sort:
+Selection Sort: Selection sort is a simple and intuive sorting algorithm that works by selecting the mimimum element from the unsorted portion of an input arraay by swpping it with the first element in the unsorted portion. This process is repeted until the entire array is sorted. One of the main advantages of selection sort is its simplicity and easy implementation. The algorithm is easy to understanad and it only requires a few lines of code.
+
+The time complexity as follow: 
+
+-Worse case scenario: O(n^2)
+
+-Average case scenario: O(n^2)
+
+-Best-case scenearion:  O(n^2)
 
 Merge Sort:
 
