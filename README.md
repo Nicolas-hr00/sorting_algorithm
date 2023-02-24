@@ -4,12 +4,26 @@ This repository contains an implementation of different kinds of sorting algorit
 
 ## Table of Contents 
 
-1. [Description] (#description)
-2. [Program Output] (#output)
-3. [Compile and Execution) (#exe)
-4. [Function Headers] (#function)
-5. [Classes] (#class)
-6. [Resources] (#resources)
+1. [Description](#description)
+2. [Program Output](#output)
+3. [Compile and Execution)(#exe)
+4. [Function Headers](#function)
+5. [Classes](#class)
+6. [Resources](#resources)
+
+## Compile and Execute <a name="exe"></a>
+
+- Windows:
+
+	To compile run the command: `g++ main.cpp headers.cpp -o quick`
+
+	To execute run the command: `quick.exe`
+
+- Linux / Mac OS:
+
+	To compile run the command: `g++ main.cpp headers.cpp -o quick`
+
+	To execute run the command: `./quick`
 
 ## Description <a name= "description"></a>
 
