@@ -77,4 +77,4 @@ The time complexity as follow:
 
 ## Program Output <a name="Output"></a>
 
-<img src="Images/Screenshot 2023-02-24 122301.png" width="400" height="300">
+<img src="Images/Screenshot 2023-02-24 122301.png" width="600" height="300">
