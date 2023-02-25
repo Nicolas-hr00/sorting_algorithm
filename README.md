@@ -111,15 +111,15 @@ The time complexity as follow:
 
 To learn more about the implentation of some of these algorithms watch this videos 
 
-Insertion Sort: [video]()
+Insertion Sort: [video](https://youtu.be/PEhwXHEPbmI)
 
-Merge Sort: [video]()
+Merge Sort: [video](https://youtu.be/RZK6KVpaT3I)
 
-Quick Sort: [video]()
+Quick Sort: [video](https://youtu.be/COk73cpQbFQ)
 
-Selection Sort: [video]()
+Selection Sort: [video](https://youtu.be/g-PGLbMth_g)
 
-Shell Sort: [video]()
+Shell Sort: [video](https://youtu.be/SHcPqUe2GZM)
 
-Binary Search: [video]()
+Binary Search: [video](https://youtu.be/vohuRrwbTT4)
 
