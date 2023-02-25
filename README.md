@@ -4,12 +4,10 @@ This repository contains an implementation of different kinds of sorting algorit
 
 ## Table of Contents 
 
-1. [Description](#description)
-2. [Compile and Execution](#exe)
-3. [Description](#description)
-4. [Program Output](#output)
-5. [Classes](#class)
-6. [Resources](#resources)
+1. [Compile and Execution](#exe)
+2. [Description](#description)
+3. [Program Output](#output)
+4. [Resources](#resources)
 
 ## Compile and Execute <a name="exe"></a>
 
