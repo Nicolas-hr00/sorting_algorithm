@@ -8,9 +8,8 @@ This repository contains an implementation of different kinds of sorting algorit
 2. [Compile and Execution](#exe)
 3. [Description](#description)
 4. [Program Output](#output)
-5. [Function Headers](#function)
-6. [Classes](#class)
-7. [Resources](#resources)
+5. [Classes](#class)
+6. [Resources](#resources)
 
 ## Compile and Execute <a name="exe"></a>
 
