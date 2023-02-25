@@ -107,3 +107,19 @@ The time complexity as follow:
 
 <img src="Images/quit.png" width="550" height="280">
 
+## Resources <a name="resources"></a>
+
+To learn more about the implentation of some of these algorithms watch this videos 
+
+Insertion Sort: [video]()
+
+Merge Sort: [video]()
+
+Quick Sort: [video]()
+
+Selection Sort: [video]()
+
+Shell Sort: [video]()
+
+Binary Search: [video]()
+
