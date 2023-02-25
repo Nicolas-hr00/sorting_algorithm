@@ -15,15 +15,15 @@ This repository contains an implementation of different kinds of sorting algorit
 
 - Windows:
 
-	To compile run the command: `g++ main.cpp headers.cpp -o quick`
+	To compile run the command: `g++ main.cpp sorting.cpp sorting.h`
 
-	To execute run the command: `quick.exe`
+	To execute run the command: `./a.out`
 
 - Linux / Mac OS:
 
-	To compile run the command: `g++ main.cpp headers.cpp -o quick`
+	To compile run the command: `g++ main.cpp sorting.cpp sorting.h`
 
-	To execute run the command: `./quick`
+	To execute run the command: `./a.out`
 
 ## Description <a name= "description"></a>
 
